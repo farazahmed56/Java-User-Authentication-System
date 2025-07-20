@@ -1,4 +1,4 @@
-# User-Authentication-System-Java
+# Java-User-Authentication-System
 
 This is a simple Java user authentication system with signup, login and CAPTCHA verification by using random class.
 
