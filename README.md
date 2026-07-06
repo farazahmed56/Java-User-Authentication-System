@@ -7,4 +7,4 @@ This is a simple Java user authentication system with signup, login and CAPTCHA 
 2. Run: `UserAuthentication`
 
 ### Author:
-Faraz Ahmed
+Faraz Ahmed Brohi
