@@ -56,7 +56,6 @@ public class UserAuthentication {
 
                 if (username.equals(savedUsername) && password.equals(savedPassword)) {
                     System.out.println("Login Successful\nWelcome to Java World!");
-                    System.out.println("Welcome you Mother fuckkkk!!!");
                     
                     break;
                 } else {
